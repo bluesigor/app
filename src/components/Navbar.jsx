@@ -9,7 +9,7 @@ import {
   ThemeProvider,
 } from '@mui/material'
 import React, { useState } from 'react'
-import logo from './images/Shoply..svg'
+import logo from '../images/Shoply..svg'
 
 const Navbar = () => {
   const [color, setColor] = useState(false)
